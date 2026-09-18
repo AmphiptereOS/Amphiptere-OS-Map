@@ -18,7 +18,8 @@ go run amphiptere-map.go
 Open Browser and navigate to:
 http://localhost:8080
 
-Disclaimer
+Disclaimer:
+
 All software and scripts provided within this repository are created strictly for educational, aesthetic, and demonstration purposes. They utilize randomized synthetic data and mock environments to simulate security workflows and tactical interfaces. They do not perform any actual network tracking, hacking, or data harvesting.
 The authors and contributors assume no liability and are not responsible for any misuse of this software.
 
