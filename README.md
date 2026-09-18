@@ -6,8 +6,7 @@ A lightweight tactical global tracking simulation built by **Amphiptere OS**. Fe
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/AmphiptereOS/Amphiptere-OS-Map.git](https://github.com/AmphiptereOS/Amphiptere-OS-Map.git)
-   cd Amphiptere-OS-Map
+  git clone https://github.com/AmphiptereOS/Amphiptere-OS-Map.git
 
    
 To Run this :
