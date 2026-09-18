@@ -12,6 +12,7 @@ A lightweight tactical global tracking simulation built by **Amphiptere OS**. Fe
    
 To Run this :
 GO must be Installed.
+
 go run amphiptere-map.go 
 
 Open Browser and navigate to:
